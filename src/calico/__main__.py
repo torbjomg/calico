@@ -1,4 +1,4 @@
-from my_project import script
+from calico import script
 
 if __name__ == "__main__":
     script.my_function()

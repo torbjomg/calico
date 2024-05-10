@@ -1,7 +1,7 @@
 [project]
-name = "project-name"
+name = "calico"
 version = "0.1.0"
-description = "<PROJECT DESCRIPTION>"
+description = "test project for new template"
 authors = [{ name = "Torbjørn Gulbrandsen", email = "torbjorngul@gmail.com" }]
 readme = "README.md"
 requires-python = ">=3.11"
