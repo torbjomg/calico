@@ -2,7 +2,7 @@ from importlib import metadata
 
 
 def get_version():
-    return metadata.version("project-name")
+    return metadata.version("calico")
 
 
 def my_function():
